@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ycplrt1c2-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ycplrt1c2-go-gitops
